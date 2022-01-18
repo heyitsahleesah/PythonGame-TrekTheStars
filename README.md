@@ -7,9 +7,6 @@ This is written in markdown. Read about markdown here: [markdowncheatsheet](http
 ## Your name:
 Alissa Graham
 
-## Your student number:
-A00785148
-
 ## Your GitHub account:
 [heyitsahleesah](https://github.com/heyitsahleesah)
 
